@@ -1,0 +1,15 @@
+C:\Users\kiber\Desktop\Учеба\DZ7\Task_47\bin\Debug\net7.0\Task_47.exe
+C:\Users\kiber\Desktop\Учеба\DZ7\Task_47\bin\Debug\net7.0\Task_47.deps.json
+C:\Users\kiber\Desktop\Учеба\DZ7\Task_47\bin\Debug\net7.0\Task_47.runtimeconfig.json
+C:\Users\kiber\Desktop\Учеба\DZ7\Task_47\bin\Debug\net7.0\Task_47.dll
+C:\Users\kiber\Desktop\Учеба\DZ7\Task_47\bin\Debug\net7.0\Task_47.pdb
+C:\Users\kiber\Desktop\Учеба\DZ7\Task_47\obj\Debug\net7.0\Task_47.csproj.AssemblyReference.cache
+C:\Users\kiber\Desktop\Учеба\DZ7\Task_47\obj\Debug\net7.0\Task_47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiber\Desktop\Учеба\DZ7\Task_47\obj\Debug\net7.0\Task_47.AssemblyInfoInputs.cache
+C:\Users\kiber\Desktop\Учеба\DZ7\Task_47\obj\Debug\net7.0\Task_47.AssemblyInfo.cs
+C:\Users\kiber\Desktop\Учеба\DZ7\Task_47\obj\Debug\net7.0\Task_47.csproj.CoreCompileInputs.cache
+C:\Users\kiber\Desktop\Учеба\DZ7\Task_47\obj\Debug\net7.0\Task_47.dll
+C:\Users\kiber\Desktop\Учеба\DZ7\Task_47\obj\Debug\net7.0\refint\Task_47.dll
+C:\Users\kiber\Desktop\Учеба\DZ7\Task_47\obj\Debug\net7.0\Task_47.pdb
+C:\Users\kiber\Desktop\Учеба\DZ7\Task_47\obj\Debug\net7.0\Task_47.genruntimeconfig.cache
+C:\Users\kiber\Desktop\Учеба\DZ7\Task_47\obj\Debug\net7.0\ref\Task_47.dll
